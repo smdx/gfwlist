@@ -1,1 +1,1 @@
-# gfwlist
+#SmartDNS GFWList 自用漏网列表
